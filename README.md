@@ -1,1 +1,1 @@
-# GitHub-copy
+# GitHub-clone
